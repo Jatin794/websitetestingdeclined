@@ -1,12 +1,12 @@
 module.exports = {
-  siteUrl: "https://ghost-novela-preview.draftbox.co",
+  siteUrl: "https://blog.jatinnagpal.com",
   postsPerPage: 12,
-  siteTitleMeta: "Built with Draftbox",
+  siteTitleMeta: "Jatin Nagpal",
   siteDescriptionMeta:
     "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
   shareImageWidth: 1000,
   shareImageHeight: 523,
-  shortTitle: "Built with Draftbox",
+  shortTitle: "Jatin Nagpal",
   siteIcon: "favicon.png",
   backgroundColor: "#e9e9e9",
   themeColor: "#15171A",
@@ -15,32 +15,32 @@ module.exports = {
     navigation: [
       {
         label: "Home",
-        url: "https://ghost-novela-preview.draftbox.co/",
+        url: "https://blog.jatinnagpal.com/",
       },
       {
         label: "Contact",
-        url: "https://ghost-novela-preview.draftbox.co/contact",
+        url: "https://blog.jatinnagpal.com/contact",
       },
     ],
   },
   footer: {
-    copyright: "Built with Draftbox",
+    copyright: "Jatin Nagpal",
     navigation: [
       {
         label: "Home",
-        url: "https://ghost-novela-preview.draftbox.co/",
+        url: "https://blog.jatinnagpal.com/",
       },
       {
         label: "Sitemap",
-        url: "https://ghost-novela-preview.draftbox.co/sitemap.xml",
+        url: "https://blog.jatinnagpal.com/sitemap.xml",
       },
       {
         label: "RSS",
-        url: "https://ghost-novela-preview.draftbox.co/rss.xml",
+        url: "https://blog.jatinnagpal.com/rss.xml",
       },
       {
         label: "Contact",
-        url: "https://ghost-novela-preview.draftbox.co/contact",
+        url: "https://blog.jatinnagpal.com/contact",
       },
       {
         label: "External Link",
@@ -50,9 +50,9 @@ module.exports = {
   },
   subscribeWidget: {
     visible: true,
-    title: "Subscribe to Built with Draftbox",
+    title: "Subscribe to Jatin Nagpal",
     helpText: "Get the latest posts delivered right to your inbox.",
-    successMessage: "Thanks for subscribing to Built with Draftbox.",
+    successMessage: "Thanks for subscribing to Jatin Nagpal.",
   },
   socialLinks: {
     twitter: "https://twitter.com/draftboxhq",
@@ -68,23 +68,23 @@ module.exports = {
     whatsapp: "",
   },
   contactWidget: {
-    title: "Contact Built with Draftbox",
+    title: "Jatin Nagpal",
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "Built with Draftbox",
+    title: "Jatin Nagpal",
     description:
       "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
   },
   twitterCard: {
-    title: "Built with Draftbox",
+    title: "Jatin Nagpal",
     description:
       "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
     imageUrl: "twitterImage.png",
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "Built with Draftbox",
+    title: "Jatin Nagpal",
     description:
       "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding. Draftbox is a new-age blogging platform for everyone, built on Gatsby.",
     imageUrl: "facebookImage.png",
@@ -92,7 +92,7 @@ module.exports = {
     width: 1000,
     height: 523,
   },
-  siteTitle: "Built with Draftbox",
+  siteTitle: "Jatin Nagpal",
   siteDescription:
     "Lightning fast, secure front-end for your WordPress or Ghost blog, without coding.",
   language: "en",

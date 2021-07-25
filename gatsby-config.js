@@ -59,15 +59,15 @@ if (process.env.SEGMENT_KEY) {
   });
 }
 
-if (process.env.GA) {
-  gatsbyPlugins.unshift({
-    resolve: `gatsby-plugin-google-analytics`,
-    options: {
-      trackingId: process.env.GA,
-      head: true,
-    },
-  });
-}
+// if (process.env.GA) {
+//  gatsbyPlugins.unshift({
+//    resolve: `gatsby-plugin-google-analytics`,
+//    options: {
+//      trackingId: process.env.GA,
+//      head: true,
+//    },
+//  });
+//}
 
 if (process.env.GATSBY_MIXPANEL_TOKEN) {
   gatsbyPlugins.push({

@@ -10,7 +10,7 @@ module.exports = {
   siteIcon: "favicon.png",
   backgroundColor: "#e9e9e9",
   themeColor: "#15171A",
-  apiUrl: "https://ghost.theasdfghjkl.com",
+  apiUrl: "https://z2b09d6a5-gtw.qovery.io",
   header: {
     navigation: [
       {
@@ -43,8 +43,8 @@ module.exports = {
         url: "https://blog.jatinnagpal.com/contact",
       },
       {
-        label: "External Link",
-        url: "https://spectrum.chat/gatsby-js/themes?tab=posts",
+        label: "Main Site",
+        url: "https://jatinnagpal.com",
       },
     ],
   },
